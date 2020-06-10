@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "jq-app",
-    "slug": "jq-app",
+    "name": "sample-app",
+    "slug": "sample-app",
     "platforms": [
       "ios",
       "android",
